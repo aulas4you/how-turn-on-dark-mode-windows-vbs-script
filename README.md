@@ -1,4 +1,12 @@
-# how-turn-on-dark-mode-windows-vbs-script
+<html>
+<body>
+		
+
+<div class="my_container">
+<h1 style="color:Blue;">how-turn-on-dark-mode-windows-vbs-script</h1>
+	
+</div>
+		
 simple vbs script to windows 10 to turn on and turn off DARK MODE thema of colors.
 You can erase the "echo" parts to avoid printf popups
 
@@ -54,4 +62,8 @@ Set WshShell2 = WScript.CreateObject("WScript.Shell")
  
  
  WScript.Echo can be deleted ,is only for debug
+		
+		
+</body>
+</html>
  
